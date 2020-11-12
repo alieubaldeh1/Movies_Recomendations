@@ -4,3 +4,6 @@ __pycache__
 *.db
 *.pytest_cache
 .gitattributes
+gitignore
+.secret
+trying_api_data.ipynb
