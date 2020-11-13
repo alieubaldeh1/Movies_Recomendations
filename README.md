@@ -10,11 +10,11 @@ We gathered data mainly from IMDB with supplemental material coming from the Mov
 We started with just thinking about what convinces us personally to be interested in a movie. Our main points of interest was the director behind a movie, the genre of the movie, and the general reception of the movie.
 ## Results
 Looking at these points, we investigated the data to see what effect these data points have on revenue. What we found was that directors have the greatest effect on the revenue brought in as the data clusters closely together except for the top ten Directors.
-![Top Ten Directors][PNG/Top ten directos revenue.png]
+![Top Ten Directors](./images/Top ten directors revenue.png)
 We then looked at the relationship between  genre and revenue to see which genre would have the greatest chance of return on investment and found that action movies have the greatest return on investment.
-![Relationship between Genre and Revenue][PNG/Genre with relation to revenue.png]
+![Relationship between Genre and Revenue](./images/Genre with relation to revenue.png)
 Lastly we looked into how user inputed scores on IMDB correlate with revenue, and found that it has a much lesser correlation to revenue and  a slight positive trend.
-![User score with relation to revenue][PNG/Score with relation to revenue.png]
+![User score with relation to revenue](./images/Score with relation to revenue.png)
 ## Conclusions
 Through these findings we concluded that if we would be able to convince a director to sign up to a project that would be the best way to invest any initial capital, followed by sticking to the action genre and following well received movie synopsis.
 ## Next Steps
